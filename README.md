@@ -4,8 +4,8 @@
 
 - build MD's equations from scratch
 - Plotting plot same as plots of Gromacs' output
-- Using ML in biological, Biophysics, Material science. etc
+- Using ML in biological, Biophysics , Material science problems.
 
   # Author :
-  Hossein Moein
-  Master Student at Sabanci University 
+  - Hossein Moein
+  - Master Student at Sabanci University 

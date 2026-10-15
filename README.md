@@ -9,7 +9,7 @@ This repository contains my implementations, notebooks, and scripts for the **Co
 * **University:** Sabancı University
 * **Program:** Master of Science
 * **Course:** MAT 504 — Computer Modelling in Materials Science
-* **Instructor:** Prof. Betul Canimkurbey (Kilavuz)
+* **Instructor:** Prof. Betul (Kilavuz)
 * **Author:** Hossein Moein
 
 ---

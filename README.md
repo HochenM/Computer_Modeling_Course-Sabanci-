@@ -1,4 +1,7 @@
 # Computer Modeling Course 
+- Instructed by Prof. Betul Kilavuz 
+- Sabanci university
+- - master program 
 
 ## My Scripts of Computer Modeling Course - Objects
 

@@ -23,5 +23,3 @@ This repository contains my implementations, notebooks, and scripts for the **Co
 
 ---
 
-
-* `week02-monte-carlo-equilibration/`: Metropolis algorithm implementation, double-well sampling, autocorrelation analysis, and Boltzmann target distribution validation.
